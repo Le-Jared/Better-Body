@@ -2,7 +2,6 @@
   "title": "Simple Blog",
   "version": "1.0",
   "author": "Jared",
-
   "devDependencies": {
     "bootstrap": "^3.3.7",
     "browser-sync": "^2.13.0",
@@ -18,5 +17,8 @@
   "repository": {
     "type": "git",
     "url": ""
+  },
+  "dependencies": {
+    "less": "^4.1.3"
   }
 }
